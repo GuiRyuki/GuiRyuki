@@ -77,13 +77,6 @@ status      atualizado conforme avanço no curso
 - `[concluído]` **Pensamento Computacional — Fundação Bradesco**
 - `[agora]` aprofundando C#, .NET, CRUD, SQL e integração com bancos de dados
 
-## `$ github-stats --theme=terminal`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiRyuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070D1D&title_color=A78BFA&icon_color=38BDF8&text_color=CBD5E1&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRyuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=070D1D&title_color=A78BFA&text_color=CBD5E1&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</div>
-
 ## `$ ./connect.sh`
 
 <div align="center">
