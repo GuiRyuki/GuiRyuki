@@ -60,16 +60,6 @@ aprendizado interfaces desktop · eventos · navegação entre telas
 status      protótipo acadêmico em evolução
 ```
 
-### `commit 02` · [Estudos de Programação](https://github.com/GuiRyuki/treinando)
-
-> Registro da minha evolução nos fundamentos da programação.
-
-```text
-conteúdo    lógica · Portugol · VisuAlg · banco de dados
-objetivo    praticar fundamentos e documentar o aprendizado
-status      atualizado conforme avanço no curso
-```
-
 ## `$ cat learning.log`
 
 - `[em andamento]` **CS50's Web Programming with Python and JavaScript — Harvard**
