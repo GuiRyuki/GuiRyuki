@@ -1,71 +1,97 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=210&section=header&text=Guilherme%20Ryuki&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Estudante%20de%20ADS%20%7C%20Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Banner de Guilherme Ryuki"/>
+<div align="center">
+  <img src="./assets/dev-header.svg" width="100%" alt="Terminal de Guilherme Ryuki"/>
+</div>
+
+<p align="center">
+  <code>São Paulo, SP</code>
+  &nbsp;•&nbsp;
+  <code>FECAP — ADS</code>
+  &nbsp;•&nbsp;
+  <code>Disponível para estágio</code>
+</p>
+
+## `$ whoami`
+
+Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas na FECAP**. Estou construindo minha base em desenvolvimento de software por meio de projetos acadêmicos e prática constante.
+
+Meu foco atual é compreender bem os fundamentos de **C#, .NET e bancos de dados**, evoluindo com honestidade: ainda estou no início da carreira, mas gosto de transformar o que aprendo em projetos que possam ser vistos, testados e melhorados.
+
+```yaml
+perfil:
+  nome: Guilherme Ryuki Kawahira
+  objetivo: estágio em tecnologia
+  interesses:
+    - desenvolvimento de software
+    - aplicações desktop
+    - banco de dados
+    - desenvolvimento web
+  modo_atual: aprender → praticar → documentar → evoluir
+```
+
+## `$ ls ./toolbox`
+
+**Conhecimento prático básico**
+
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=A78BFA)
+![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=38BDF8)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-111827?style=for-the-badge&logo=visualstudio&logoColor=A78BFA)
+
+**Em aprendizado**
+
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FACC15)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=F97316)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=38BDF8)
+![SQL Server](https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=FB7185)
+
+## `$ git log --featured`
+
+### `commit 01` · [Messier — Protótipo Desktop](https://github.com/GuiRyuki/PrototipoMessier)
+
+> Aplicação acadêmica para gestão e acesso de escolas a jogos educacionais.
+
+```text
+stack       C# · .NET 8 · Windows Forms
+features    login por perfil · catálogo · pacotes · relatórios
+aprendizado interfaces desktop · eventos · navegação entre telas
+status      protótipo acadêmico em evolução
+```
+
+### `commit 02` · [Estudos de Programação](https://github.com/GuiRyuki/treinando)
+
+> Registro da minha evolução nos fundamentos da programação.
+
+```text
+conteúdo    lógica · Portugol · VisuAlg · banco de dados
+objetivo    praticar fundamentos e documentar o aprendizado
+status      atualizado conforme avanço no curso
+```
+
+## `$ cat learning.log`
+
+- `[em andamento]` **CS50's Web Programming with Python and JavaScript — Harvard**
+- `[concluído]` **Pacote Office — Fundação Bradesco**
+- `[concluído]` **Pensamento Computacional — Fundação Bradesco**
+- `[agora]` aprofundando C#, .NET, CRUD, SQL e integração com bancos de dados
+
+## `$ github-stats --theme=terminal`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiRyuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070D1D&title_color=A78BFA&icon_color=38BDF8&text_color=CBD5E1&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRyuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=070D1D&title_color=A78BFA&text_color=CBD5E1&locale=pt-br" alt="Linguagens mais utilizadas"/>
+</div>
+
+## `$ ./connect.sh`
 
 <div align="center">
 
-### Olá! Eu sou o Guilherme 👋
+[![GitHub](https://img.shields.io/badge/Explorar_meus_repositórios-070D1D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiRyuki)
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FECAP**, em São Paulo.  
-Estou construindo minha base em desenvolvimento de software e buscando uma oportunidade de **estágio em tecnologia**.
-
-</div>
-
----
-
-## Sobre mim
-
-- 🎓 Cursando o **2º semestre de Análise e Desenvolvimento de Sistemas** na FECAP
-- 💻 Desenvolvendo projetos acadêmicos e praticando lógica de programação
-- 🌱 Estudando **C#, .NET, SQL, banco de dados e desenvolvimento web**
-- 🧩 Interesse em desenvolvimento de software, resolução de problemas e aprendizado contínuo
-- 🎯 Em busca da minha primeira oportunidade de estágio na área de tecnologia
-
-## Tecnologias e ferramentas
-
-<div align="center">
-
-### Conhecimento prático básico
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,git,github,visualstudio,vscode&theme=dark" alt="C Sharp, .NET, SQLite, Git, GitHub, Visual Studio e VS Code"/>
-
-### Em aprendizado
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML e CSS"/>
+```text
+> Sempre aprendendo. Um commit de cada vez.
+```
 
 </div>
-
-## Projeto em destaque
-
-### 🎮 [Messier — Protótipo Desktop](https://github.com/GuiRyuki/PrototipoMessier)
-
-Aplicação acadêmica em **C# e Windows Forms** voltada à gestão e ao acesso de escolas a jogos educacionais. O protótipo apresenta autenticação por perfil, catálogo de jogos, menu administrativo, pacotes e relatórios demonstrativos.
-
-**Principais aprendizados:** interfaces desktop, programação orientada a eventos, organização de formulários, navegação entre telas e desenvolvimento colaborativo.
-
-## Outros estudos
-
-### 📚 [Estudos de Programação](https://github.com/GuiRyuki/treinando)
-
-Repositório usado para registrar exercícios de lógica de programação, Portugol, VisuAlg e fundamentos de banco de dados.
-
-## Formação complementar
-
-- **CS50's Web Programming with Python and JavaScript — Harvard** · em andamento
-- **Pacote Office — Fundação Bradesco** · nível básico
-- **Pensamento Computacional — Fundação Bradesco** · nível básico
-
-## Estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiRyuki&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRyuki&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</div>
-
-## Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiRyuki)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" alt="Rodapé"/>
